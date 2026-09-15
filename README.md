@@ -10,9 +10,11 @@ and the dashboards and desktop agents that sit on top of them.
 
 ### Stack
 
-**Automation** Python · Playwright · CDP · PyQt6
-**Web** TypeScript · Next.js · Node.js · PostgreSQL
-**Infra** GCP · Caddy · systemd · WebSocket
+| | |
+|---|---|
+| **Automation** | Python · Playwright · CDP · PyQt6 |
+| **Web** | TypeScript · Next.js · Node.js · PostgreSQL |
+| **Infra** | GCP · Caddy · systemd · WebSocket |
 
 ### In production
 
