@@ -10,23 +10,23 @@ and the dashboards and desktop agents that sit on top of them.
 
 ### Stack
 
-| | |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · HTML / CSS |
-| **Browser automation** | Playwright · Patchright · Selenium · UC Chrome · Nodriver · CDP (raw WebSocket) · Scrapy · BeautifulSoup · requests · curl_cffi |
-| **Desktop / RPA** | PyQt6 · AutoHotKey · PyAutoGUI · PyWinAuto · WebView · Power Automate · ADB |
-| **Web** | Next.js · React · Node.js · REST API · WebSocket |
-| **Data** | PostgreSQL · MongoDB · SQLite · Firebase · Supabase · Openpyxl |
-| **Infra** | GCP · AWS · OCI · Docker · Caddy · systemd · Cloudflare · Proxy |
-| **Other** | Telethon · Twilio · Wireshark · Photoshop · imweb |
+<table>
+<tr><td><b>Languages</b></td><td>Python · TypeScript · JavaScript · HTML / CSS</td></tr>
+<tr><td><b>Browser automation</b></td><td>Playwright · Patchright · Selenium · UC Chrome · Nodriver · CDP (raw WebSocket) · Scrapy · BeautifulSoup · requests · curl_cffi</td></tr>
+<tr><td><b>Desktop / RPA</b></td><td>PyQt6 · AutoHotKey · PyAutoGUI · PyWinAuto · WebView · Power Automate · ADB</td></tr>
+<tr><td><b>Web</b></td><td>Next.js · React · Node.js · REST API · WebSocket</td></tr>
+<tr><td><b>Data</b></td><td>PostgreSQL · MongoDB · SQLite · Firebase · Supabase · Openpyxl</td></tr>
+<tr><td><b>Infra</b></td><td>GCP · AWS · OCI · Docker · Caddy · systemd · Cloudflare · Proxy</td></tr>
+<tr><td><b>Other</b></td><td>Telethon · Twilio · Wireshark · Photoshop · imweb</td></tr>
+</table>
 
 ### In production
 
-| | |
-|---|---|
-| [proto.igel.kr](https://proto.igel.kr) | Portfolio — projects with live mockups |
-| [dev.igel.kr](https://dev.igel.kr) | Micro SaaS — manage several accounts’ chats in one dashboard. Next.js web, WebSocket hub, desktop agents |
-| [igel.kr](https://igel.kr) | Personal start page — bookmarks, widgets and search on one screen |
+<table>
+<tr><td><a href="https://proto.igel.kr">proto.igel.kr</a></td><td>Portfolio — projects with live mockups</td></tr>
+<tr><td><a href="https://dev.igel.kr">dev.igel.kr</a></td><td>Micro SaaS — manage several accounts’ chats in one dashboard. Next.js web, WebSocket hub, desktop agents</td></tr>
+<tr><td><a href="https://igel.kr">igel.kr</a></td><td>Personal start page — bookmarks, widgets and search on one screen</td></tr>
+</table>
 
 ### Why most repositories are private
 
