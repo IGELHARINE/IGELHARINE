@@ -12,9 +12,13 @@ and the dashboards and desktop agents that sit on top of them.
 
 | | |
 |---|---|
-| **Automation** | Python · Playwright · CDP · PyQt6 |
-| **Web** | TypeScript · Next.js · Node.js · PostgreSQL |
-| **Infra** | GCP · Caddy · systemd · WebSocket |
+| **Languages** | Python · TypeScript · JavaScript · HTML / CSS |
+| **Browser automation** | Playwright · Patchright · Selenium · UC Chrome · Nodriver · CDP (raw WebSocket) · Scrapy · BeautifulSoup · requests · curl_cffi |
+| **Desktop / RPA** | PyQt6 · AutoHotKey · PyAutoGUI · PyWinAuto · WebView · Power Automate · ADB |
+| **Web** | Next.js · React · Node.js · REST API · WebSocket |
+| **Data** | PostgreSQL · MongoDB · SQLite · Firebase · Supabase · Openpyxl |
+| **Infra** | GCP · AWS · OCI · Docker · Caddy · systemd · Cloudflare · Proxy |
+| **Other** | Telethon · Twilio · Wireshark · Photoshop · imweb |
 
 ### In production
 
