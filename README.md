@@ -15,13 +15,9 @@ below is what I can share.
 
 ### Running
 
-- [proto.igel.kr](https://proto.igel.kr) — portfolio with live mockups
-- [dev.igel.kr](https://dev.igel.kr) — multi-account chat dashboard (Next.js, WebSocket hub, desktop agents)
 - [igel.kr](https://igel.kr) — personal start page
 
 ### Usually working with
 
 Python, TypeScript · Playwright, Patchright, raw CDP · PyQt6, AutoHotKey ·
 Next.js, Node.js · PostgreSQL, Supabase · GCP, AWS, Docker, Cloudflare
-
-Contact: [proto.igel.kr](https://proto.igel.kr)
